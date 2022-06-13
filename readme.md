@@ -1,4 +1,4 @@
-# step to start pytorch serve
+# steps to start pytorch serve
 
 1 create a new conda env and  install the require packages
 
